@@ -1,8 +1,8 @@
 {
-  "name": "@vuepic/vue-datepicker",
-  "version": "5.4.0",
+  "name": "@anhoang/vue-datepicker-compat",
+  "version": "5.5.0",
   "description": "Datepicker component for Vue 3",
-  "author": "Vuepic",
+  "author": "AnHoang",
   "private": false,
   "license": "MIT",
   "homepage": "https://vue3datepicker.com",
